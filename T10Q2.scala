@@ -15,11 +15,6 @@ object T10Q2 {
           val inputWords = List("apple", "banana", "cherry", "date")
           val totalOccurrences = countLetterOccurrences(inputWords)
           println(s"Total count of letter occurrences: $totalOccurrences")
-
-        
-        
-        
-        
       }
   
 }
