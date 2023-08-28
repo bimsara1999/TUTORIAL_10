@@ -17,14 +17,6 @@ val inputTemperatures = List(0, 10, 20, 30)
 val averageFahrenheit = calculateAverage(inputTemperatures)
 println(s"Average Fahrenheit temperature: $averageFahrenheit")
 
-            
-            
-            
-            
-          
-  
     }
-  
-  
 }
 
